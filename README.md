@@ -21,13 +21,13 @@ This is a simple weather web application that allows users to check the current 
 
 ## API Key
 
-To use this application, you'll need to obtain an API key from a weather service provider (e.g., OpenWeatherMap). Replace `'API_KEY'` in the `script.js` file with your actual API key.
+To use this application, you'll need to obtain an API key from a weather service provider (e.g., OpenWeatherMap). Replace `'API_KEY'` in the `app.js` file with your actual API key.
 
 ## Directory Structure
 
 - `index.html`: Main HTML file.
 - `style.css`: CSS styles for the web app.
-- `script.js`: JavaScript code for functionality.
+- `app.js`: JavaScript code for functionality.
 - `README.md`: Instructions for using the application.
 
 ## Credits
