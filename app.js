@@ -12,7 +12,6 @@ document.addEventListener('DOMContentLoaded', () => {
             return;
         }
         
-        // You'll need to replace 'YOUR_API_KEY' with an actual API key from a weather service provider.
         const apiKey = '35112a1179088fdcac9c8e46d06679ac';
         const apiUrl = `https://api.openweathermap.org/data/2.5/weather?q=${location}&units=${unit}&appid=${apiKey}`;
 
